@@ -19,7 +19,7 @@ git clone http://github.com/khanlab/neuroglia-helpers ~/neuroglia-helpers
 
 If you want to use a different configuration profile, e.g. `khanlab`, add it as an argument to `setup.sh`:
 ```
-~/neuroglia-helpers/setup.sh khanlab
+~/neuroglia-helpers/setup.sh xiaobird
 ```
 
 
