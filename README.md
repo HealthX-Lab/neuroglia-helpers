@@ -13,7 +13,7 @@ Features:
 
 To set-up neuroglia-helpers on graham, run the following:
 ```
-git clone http://github.com/khanlab/neuroglia-helpers ~/neuroglia-helpers
+git clone http://github.com/HealthX-Lab/neuroglia-helpers ~/neuroglia-helpers
 ~/neuroglia-helpers/setup.sh
 ```
 
