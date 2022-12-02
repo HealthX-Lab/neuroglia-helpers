@@ -17,7 +17,7 @@ git clone http://github.com/HealthX-Lab/neuroglia-helpers ~/neuroglia-helpers
 ~/neuroglia-helpers/setup.sh
 ```
 
-If you want to use a different configuration profile, e.g. `xiaobird`, add it as an argument to `setup.sh`:
+If you want to use a different configuration profile, e.g. `xiaobird` for graham and `xiaoBeluga` for Beluga, add it as an argument to `setup.sh`:
 ```
 ~/neuroglia-helpers/setup.sh xiaobird
 ```
